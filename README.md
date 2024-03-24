@@ -2,6 +2,7 @@
 NeuroHack 2024 Team 7 project submission: NEURAL NAVIGATORS!
 
 1. PROJECT VIDEO LINK
+https://youtu.be/4_1dSUkZ1K4
 
 2. PROJECT DESCRIPTION
 
