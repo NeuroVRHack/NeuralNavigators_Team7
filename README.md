@@ -30,7 +30,20 @@ Klopfer, E., Haas, J., Osterweil, S., & Rosenheck, L. (2018). Resonant games : d
 
   RESOURCES:
 
-Gorillazilla
-XRGizmo
-Toon Shader
-The sdk
+Gorillazilla: https://drive.google.com/drive/folders/1d1rLkdSZK66Rs7N5_AIjGFoMX-oQXmM_?usp=sharing
+XRGizmo:https://github.com/darktable/XRGizmos
+Meshy: https://www.meshy.ai/
+Toon Shader: https://github.com/Delt06/urp-toon-shader.git?path=Packages/com.deltation.toon-shader
+The SDK: Meta Package (com.meta.xr.sdk.all) v59.0.0
+
+5. OPTIONAL: ADDITIONAL ASSETS
+
+Neuron Character Render
+![Neuron_Render](https://github.com/NeuroVRHack/NeuralNavigators_Team7/assets/56736906/710b163a-016c-4881-ad4b-b150e1567e8d)
+
+Virus Character Render
+![Virus Render](https://github.com/NeuroVRHack/NeuralNavigators_Team7/assets/56736906/e5fdfd27-9c38-4230-aed4-46530e341ccb)
+
+Extra character Renders for future play: Oligodendrocyte Character
+![Olgodendrocyte_Character](https://github.com/NeuroVRHack/NeuralNavigators_Team7/assets/56736906/ec833db3-5832-4316-a9ce-2796f330d905)
+
